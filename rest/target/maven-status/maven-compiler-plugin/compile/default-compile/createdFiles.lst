@@ -1,0 +1,12 @@
+com\pedroaugust8\rest\config\OAuth2Configuration$ResourceServerConfiguration.class
+com\pedroaugust8\rest\services\CustomUserDetailsService$UserRepositoryUserDetails.class
+com\pedroaugust8\rest\viewmodels\UserView.class
+com\pedroaugust8\rest\services\async\UserAsyncService.class
+com\pedroaugust8\Application.class
+com\pedroaugust8\rest\controllers\HomeController.class
+com\pedroaugust8\rest\config\OAuth2Configuration$AuthorizationServerConfiguration.class
+com\pedroaugust8\rest\config\OAuth2Configuration.class
+com\pedroaugust8\rest\services\CustomUserDetailsService.class
+com\pedroaugust8\rest\controllers\UserController.class
+com\pedroaugust8\REST_API.class
+com\pedroaugust8\rest\services\CustomUserDetailsService$1.class
